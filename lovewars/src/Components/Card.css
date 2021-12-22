@@ -1,16 +1,28 @@
 .card {
     background-color: rgb(226, 216, 226);
     padding: 12px;
-    border-radius: 12px;
-    text-align: center;
+   border-radius: 73px;
+    padding: 21px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(226, 216, 226,0.5);
+    margin: 30px; 
 }
-
+.pCard{
+    font-weight: bold;
+}
 .Cardimg {
     width: 250px;
-    height: 350px;
+    height: 277px;
+    border-radius: 79px; 
 }
 
 .homeCard {
     margin: 20px;
 }
-
+.button {
+    display: flex;
+    justify-content: space-between;
+    
+}

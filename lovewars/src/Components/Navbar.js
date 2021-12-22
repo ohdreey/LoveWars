@@ -1,7 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom"
 import "./Navbar.css";
-import messLogo from "../Images/icons8-love-message-64.png"
+import messLogo from "../Images/messLogo.png"
 import messSearch from "../Images/icons8-recherche-de-l'amour-64.png"
 
 

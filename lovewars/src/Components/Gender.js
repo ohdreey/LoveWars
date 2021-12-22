@@ -37,10 +37,10 @@ const handleClick = (param) => {
 return (
 	<div className="globalGender">
 		<div className="ButtonGender">
-    	<button onClick={() => handleClick('male')}><img className="genderImages" src={mars} alt="mars"/></button> 
-			<button onClick={() => handleClick('female')}><img className="genderImages" src={venus} alt="venus"/></button>
-			<button onClick={() => handleClick('droid')}><img className="genderImages" src={droid} alt="droid" /></button>
-			<button onClick={() => handleClick('all')}><img className="genderImages" src={venusMars} alt="venus" /></button>
+    	<button className='btnGender' onClick={() => handleClick('male')}><img className="genderImages" src={mars} alt="mars"/></button> 
+			<button className='btnGender' onClick={() => handleClick('female')}><img className="genderImages" src={venus} alt="venus"/></button>
+			<button className='btnGender' onClick={() => handleClick('droid')}><img className="genderImages" src={droid} alt="droid" /></button>
+			<button className='btnGender' onClick={() => handleClick('all')}><img className="genderImages" src={venusMars} alt="venus" /></button>
 		</div>
 		<div className="globalCardGender">
 			{

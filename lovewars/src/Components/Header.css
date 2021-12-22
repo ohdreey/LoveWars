@@ -1,6 +1,7 @@
 .imgHead{
     display: flex;
     justify-content: center;
+    border-radius: 10px;
     /* text-align: center; */
     /* background: linear-gradient(45deg, rgba(240, 245, 240, 0.294), rgba(240, 245, 240, 0.726)) ; */
     background-color:rgba(240, 245, 240, 0.294);

@@ -17,7 +17,7 @@ const Characters = () => {
 
   return (
     <div>
-      Characters !
+      
       <div className="GaleryCharacters">
         { characters != null &&
         <Card 
