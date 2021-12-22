@@ -1,24 +1,30 @@
+
 import {Routes, Route } from "react-router-dom"
 import './App.css';
 import Navbar from './Components/Navbar';
 import Chats from './Components/Chats'
-// import Header from './Components/Header';
+import Header from './Components/Header';
+import Gender from './Components/Gender'
 
-function App() {
+
+
+
+  
+const App = () => {
   return (
     <div className="App">
-        {/* <Header /> */}
+        <Header />
 
-    
-        <Routes>          
-               
+        
+        <Routes>
+           <Route path="/" element={<Gender />} /> 
            <Route path="/chats" element={<Chats />} /> 
            <Route path="/logo" element={<App />} />         
            
            
         </Routes>
         <Navbar />
-    
+
     </div>
    
   );

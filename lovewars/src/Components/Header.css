@@ -1,0 +1,23 @@
+.imgHead{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background: linear-gradient(45deg, rgba(240, 245, 240, 0.294), rgba(240, 245, 240, 0.726)) ;
+}
+.imgHeadA{
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 70px;
+    height: 70px;
+}
+.imgHeadB{
+    margin-right: 10px;
+    line-height: 10px;
+}
+
+h1{
+    font-size:20px;
+}
+h2{
+    font-size: 10px,
+}

@@ -1,21 +1,18 @@
-import React, {useState,useEffect} from "react";
+import React from "react";
 import {NavLink} from "react-router-dom"
 import "./Navbar.css";
-
+import messLogo from "../Images/icons8-love-message-64.png"
 
 
 
 export default function NavBar(){
     return (
-      <nav>
+      <div className="nav">
           <div className="liste">
-              
-            <li className="items">Swipez</li>
-            <NavLink to="/App"><li className="items">Logo</li></NavLink>
-            <NavLink to= "/Chats"><li className="items"></li></NavLink>
-            
+            <NavLink to="/App"><button className="items">Logo</button></NavLink>
+            <NavLink to= "/Chats"><img className="items" src={messLogo} alt="venus"/><button/></NavLink>
           </div>
-      </nav>
+      </div>
     )
   }
 
