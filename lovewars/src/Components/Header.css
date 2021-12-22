@@ -1,23 +1,27 @@
 .imgHead{
     display: flex;
-    justify-content: space-between;
-    text-align: center;
-    background: linear-gradient(45deg, rgba(240, 245, 240, 0.294), rgba(240, 245, 240, 0.726)) ;
+    justify-content: center;
+    /* text-align: center; */
+    /* background: linear-gradient(45deg, rgba(240, 245, 240, 0.294), rgba(240, 245, 240, 0.726)) ; */
+    background-color:rgba(240, 245, 240, 0.294);
 }
 .imgHeadA{
-    margin-left: 25px;
-    margin-top: 25px;
+    /* margin-left: 25px; */
+    margin-bottom: 5px;
+    margin-top: 5px;
     width: 70px;
     height: 70px;
 }
-.imgHeadB{
-    margin-right: 10px;
-    line-height: 10px;
-}
+/* .imgHeadB{
+    margin-right: 10px; 
+    /* line-height: 10px; */
+    /* width: 80px;
+    height: 70px;
+}  */
 
-h1{
+/* h1{
     font-size:20px;
 }
 h2{
     font-size: 10px,
-}
+} */

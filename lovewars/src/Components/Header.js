@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import logo from "../Images/Logo.png"
+import logoB from "../Images/Logo2-Lovewars-Transparent.png"
 
 
 export default function Header(){
@@ -9,10 +10,9 @@ export default function Header(){
         <div>
             <img className="imgHeadA" src={logo} ></img>
         </div>
-        <div className="imgHeadB">    
-            <h1 >LoveWars</h1>
-                <h2>Trouve votre étoile</h2>
-        </div>
+        {/* <div >   
+            <img className="imgHeadB" src={logoB}></img> 
+        </div> */}
     </div>
     )
 }
