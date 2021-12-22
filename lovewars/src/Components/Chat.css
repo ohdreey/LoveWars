@@ -14,3 +14,7 @@
 .chatDetails{
     flex:1;
 }
+
+.chatImage{
+    margin-right: 20px;
+}
