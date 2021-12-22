@@ -1,10 +1,14 @@
 .genderImages {
     height: 70px;
     display: flex;
+    border-radius: ;
+    
+    
 }
-.pouletbouton{
+.boutons{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 20px 0;
+    margin-top: 45vh;
 }
+
