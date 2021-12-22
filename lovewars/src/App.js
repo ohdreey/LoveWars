@@ -2,6 +2,7 @@ import {Routes, Route } from "react-router-dom"
 import './App.css';
 import Navbar from './Components/Navbar';
 import Chats from './Components/Chats'
+import ChatScreen from './ChatScreen'
 // import Header from './Components/Header';
 
 function App() {
@@ -11,9 +12,9 @@ function App() {
 
     
         <Routes>          
-               
-           <Route path="/chats" element={<Chats />} /> 
-           <Route path="/logo" element={<App />} />         
+          <Route path="/chatscreen" element={<ChatScreen />} /> 
+          <Route path="/chats/:person" element={<Chats />} /> 
+          <Route path="/chats" element={<Chats />} />      
            
            
         </Routes>

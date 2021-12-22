@@ -12,7 +12,7 @@ export default function NavBar(){
               
             <li className="items">Swipez</li>
             <NavLink to="/App"><li className="items">Logo</li></NavLink>
-            <NavLink to= "/Chats"><li className="items"></li></NavLink>
+            <NavLink to= "/Chats"><li className="items">Messages</li></NavLink>
             
           </div>
       </nav>
