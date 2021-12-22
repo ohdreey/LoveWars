@@ -1,11 +1,12 @@
 import {useState, useEffect } from "react"
-
 import "./Gender.css" 
 
 import venus from "../Images/venus.png"
 import mars from "../Images/mars.png"
 import venusMars from "../Images/venusMars.png"
 import droid from "../Images/droid.png"
+import CardHome from './CardHome'
+
 const Gender = () => {
 	const [characters, setCharacters] = useState([])
 	const [selectedCharacters, setSelectedCharacters] = useState([])
@@ -34,24 +35,31 @@ const handleClick = (param) => {
 }
 
 return (
-	<div>
-      
-		    <button onClick={() => handleClick('male')}><img className="genderImages" src={mars} alt="mars"/></button>
-		   
+	<div className="globalGender">
+		<div className="ButtonGender">
+    	<button onClick={() => handleClick('male')}><img className="genderImages" src={mars} alt="mars"/></button> 
 			<button onClick={() => handleClick('female')}><img className="genderImages" src={venus} alt="venus"/></button>
-		    <button onClick={() => handleClick('droid')}><img className="genderImages" src={droid} alt="droid"/></button>
-		    <button onClick={() => handleClick('all')}><img className="genderImages" src={venusMars} alt="venus"/></button>
- 
-		{
-			selectedCharacters.map(character => {
-			return <div key={character.id}>
-				<p>{character.name}</p>
-				<img className='card-img' src={character.image} alt={character.name} />
-			</div>
-		})
-		}
-
+			<button onClick={() => handleClick('droid')}><img className="genderImages" src={droid} alt="droid" /></button>
+			<button onClick={() => handleClick('all')}><img className="genderImages" src={venusMars} alt="venus" /></button>
 		</div>
+		<div className="globalCardGender">
+			{
+			selectedCharacters.map(character => {
+			return ( <CardHome 
+        key={character.id}
+        id={character.id} 
+        name={character.name}  
+        image={character.image} 
+        species={character.species}
+        />) 
+			// <div key={character.id}>
+			// 	<p>{character.name}</p>
+			// 	<img className='card-img' src={character.image} alt={character.name} />
+			// </div>
+			})
+		}
+		</div>
+	</div>
 	)
 }
 

@@ -1,9 +1,6 @@
 .genderImages {
     height: 70px;
     display: flex;
-    border-radius: ;
-    
-    
 }
 .boutons{
     display: flex;
@@ -11,4 +8,18 @@
     justify-content: space-around;
     margin-top: 45vh;
 }
+.globalGender {
+    display: flex;
+    flex-direction: column;
+}
+.ButtonGender {
+    display: flex;
+        justify-content: space-around;
+        margin: 20px 0;
+}
+.globalCardGender{
 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
