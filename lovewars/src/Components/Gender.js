@@ -2,18 +2,14 @@ import {useState, useEffect } from "react"
 
 import "./Gender.css" 
 
-import venus from "../images/venus.png"
-import mars from "../images/mars.png"
-import venusMars from "../images/venusMars.png"
-import droid from "../images/droid.png"
-import wallpaper from "../images/wallpaper.jpg"
-
-
-
+import venus from "../Images/venus.png"
+import mars from "../Images/mars.png"
+import venusMars from "../Images/venusMars.png"
+import droid from "../Images/droid.png"
 const Gender = () => {
 	const [characters, setCharacters] = useState([])
 	const [selectedCharacters, setSelectedCharacters] = useState([])
-	
+
 	useEffect(() => {
 		const getData = () => {
 			fetch("https://miadil.github.io/starwars-api/api/all.json")
