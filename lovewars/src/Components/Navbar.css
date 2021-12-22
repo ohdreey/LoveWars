@@ -2,7 +2,9 @@
     display: flex;
     justify-content: space-around;
 }
-
+.pouletimage{
+    width: 200px;
+}
 .liste{
     width: 100%;
     border-radius: 10px;

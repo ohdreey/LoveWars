@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-=======
-/*.App {
+/* .App {
   text-align: center;
 }
-/* 
+ 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
->>>>>>> d2aac418380788c8d7a891c9101e1be9384c586d
-
+} */
 .App { 
   background: url(Images/orion-nebula-gdf424e7fa_640.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;

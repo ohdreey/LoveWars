@@ -18,11 +18,10 @@ const App = () => {
       <Header />
       <Routes>
         <Route path="/" element={<Characters />} /> 
-          
+        <Route path="/chats" element={<Chats />} />  
         <Route path='/characters' element={<Gender />}/>
-                <Route path="/chatscreen" element={<ChatScreen />} /> 
-          <Route path="/chats/:person" element={<Chats />} /> 
-          <Route path="/chats" element={<Chats />} />  
+        <Route path="/chatscreen" element={<ChatScreen />} /> 
+        <Route path="/chats/:person" element={<Chats />} /> 
       </Routes>
       <Navbar />
     </div>

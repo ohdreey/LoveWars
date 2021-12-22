@@ -7,12 +7,12 @@ import "./ChatScreen.css";
 function ChatScreen() {
     const [messages, setMessages] = useState([
         {
-            name:"Mark",
+            name:"Padmé",
             message:"Yo ",
         },
 
         {
-            name:"Mark",
+            name:"Padmé",
             message:"Whats up!",
         },
         {
