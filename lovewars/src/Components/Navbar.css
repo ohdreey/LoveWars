@@ -1,0 +1,25 @@
+nav{
+    width:98%;
+    height:80px;
+    display: flex;
+    justify-content: center;
+    /* background: linear-gradient(45deg, rgb(156,14,156), midnightblue) */
+}
+
+.liste{
+    border-radius: 10px;
+    list-style-type: none;
+    background-color: rgb(230, 222, 222);
+    opacity: 0,1;
+    height:100%;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    position: relative;
+}
+.items{
+    padding:25px;
+    font-size: 20px;
+    color: #f1f1f1;
+    cursor:pointer;
+}
