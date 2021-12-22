@@ -1,7 +1,8 @@
 .card {
-    background-color: gray;
+    background-color: rgb(226, 216, 226);
     padding: 12px;
     border-radius: 12px;
+    text-align: center;
 }
 
 .Cardimg {
