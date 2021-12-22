@@ -2,6 +2,10 @@ import {useState, useEffect } from "react"
 
 import "./Gender.css" 
 
+import venus from "../images/venus.png"
+import mars from "../images/mars.png"
+import venusMars from "../images/venusMars.png"
+import droid from "../images/droid.png"
 
 
 const Gender = () => {
@@ -21,6 +25,7 @@ const handleClick = (param) => {
 	console.log(param)
 	if (param === 'all') {
 		setSelectedCharacters(characters)
+
 	} else if (param === 'droid'){
 		let selected = characters.filter((character) => (character.species === param))
 			setSelectedCharacters(selected)
@@ -32,18 +37,20 @@ const handleClick = (param) => {
 
 return (
 	<div>
-		<button onClick={() => handleClick('male')}>Male</button>
-		<button onClick={() => handleClick('female')}>Female</button>
-		<button onClick={() => handleClick('droid')}>Droid</button>
-		<button onClick={() => handleClick('all')}>All</button>
-		{
+        <div className="pouletbouton">
+		    <button onClick={() => handleClick('male')}><img className="genderImages" src={mars} alt="mars"/></button>
+		    <button onClick={() => handleClick('female')}><img className="genderImages" src={venus} alt="venus"/></button>
+		    <button onClick={() => handleClick('droid')}><img className="genderImages" src={droid} alt="droid"/></button>
+		    <button onClick={() => handleClick('all')}><img className="genderImages" src={venusMars} alt="venus"/></button>
+        </div>
+		{/* {
 			selectedCharacters.map(character => {
 			return <div key={character.id}>
 				<p>{character.name}</p>
 				<img className='card-img' src={character.image} alt={character.name} />
 			</div>
 		})
-		}
+		} */}
 
 		</div>
 	)
