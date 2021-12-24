@@ -1,19 +1,23 @@
 import "./Card.css"
 import "./button.css"
-import heart_027 from '../assets/heart_027.jpg'
-import button from "./button"
+import coeur1 from "../assets/coeur1.jpg"
+import croix1 from "../assets/croix1.png"
+
+
 const Card = ({name, image, id, species, button, random, setRandom}) => {
   return (
-  <div className='card'>
-    <img className="Cardimg" src={image} alt={name}/>
-    <p>{name}</p>
-    <p>{species}</p>
-    <div>
-      <button onClick={() => setRandom(Math.floor(Math.random() * 88))}>DISLIKE</button>
-      <button onClick={() => setRandom(Math.floor(Math.random() * 88))}>LIKE</button>
+  <div className='card' style={{ left: `${id}00%` }}>
+    <div className='cardPicture'>
+      <img className="cardImg" src={image} alt={name}/>
+    </div>
+      <p>{name}</p>
+      <p>{species}</p>
+    <div className='button'>
+      <div onClick={() => setRandom(Math.floor(Math.random() * 88))}><img className="choicePictures" src={croix1} alt="coeur" /></div>
+      <div onClick={() => setRandom(Math.floor(Math.random() * 88))}><img className="choicePictures" src ={coeur1} alt="croix" /></div>
     </div>
   </div>
   )
-}
+  }
 
 export default Card

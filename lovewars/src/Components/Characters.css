@@ -4,5 +4,13 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
 
+@media screen and (max-width: 700px) {
+    .GaleryCharacters {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
 }
