@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></header>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+ <h1>
+ Bienvenue ! 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-## Available Scripts
+                                                                                                                                
+                                                                                                                  
+<div align="center">
+  <img src="https://media.giphy.com/media/mUtfRO0EkV7fZyTs0G/giphy.gif" width="600" height="300"/>
+</div>
 
-In the project directory, you can run:
+<hr/>
 
-### `npm start`
+👩‍💻: Qui suis-je ? : Je suis développeuse Full-stack junior <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sur Paris.
+  
+- :telescope: - React.JS & Node.JS - Frontend and backend pour développer des sites internets et des applications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- :zap: J'aime créer & réaliser ( broderie, cirer des bougies, activités manuelles), j'aime la musique (DJ) et cuisiner.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- :mailbox:Me contacter: [![Linkedin Badge](https://img.shields.io/badge/-Audrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-valli%C3%A9-26a65118b/)
+                                                                                    
+                                                                                  
+<hr/>
+:hammer_and_wrench: Langages et outils utilisés sur ce projet:
+<div>
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<br/>
+<h2> Le projet </h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p></p>
+</br>
+<p></p>
+</br>
+  <h2> </h2>
+<p> </p>
+ <br/>
+ 
+<h2> L'équipe </h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
+<ul>
+    <li><a href=/a> </li>
+   <li>Audrey VALLIÉ</li>
+</ul>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>Caractéristiques</h2>
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li> </li>
+ </ul>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2>Dans le répertoire du projet, vous pouvez exécuter :</h2>
+<p>npm install</p>
+ <p>npm start</p>
+<p>Ces commandes installent les dépendances et démarrent l'application en mode développement.</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>Capture d'encran ::</h2>
+![love](https://user-images.githubusercontent.com/82833380/153222313-170bf20c-870e-4e7a-80cb-73f360273c77.jpg)
+![Capture d’écran 2022-02-07 à 19 37 38](https://user-images.githubusercontent.com/82833380/153222329-2c10157b-9754-45a7-a04f-579d483b479d.png)
