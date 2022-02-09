@@ -75,4 +75,3 @@
 <h2>Capture d'encran ::</h2>
 
 ![love](https://user-images.githubusercontent.com/82833380/153222651-f3d30151-817d-4139-8ed3-214160558dfa.jpg)
-![Capture d’écran 2022-02-07 à 19 37 38](https://user-images.githubusercontent.com/82833380/153222667-b29feee0-b2d0-458c-b3ce-70fb7a48ac2f.png)
