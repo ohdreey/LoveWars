@@ -66,7 +66,7 @@ user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous 
    <li>Jules <a href=</a>https://github.com/JulesCharles</a></li>
  <li>Mariem <a href=</a>https://github.com/mariem31</a></li>
  <li>Deo <a href=</a>https://github.com/SummerCoder4</a></li>
- <li>Deo <a href=</a>https://github.com/DataLyLa</a></li>
+ <li>Lindia <a href=</a>https://github.com/DataLyLa</a></li>
    <li>Audrey</li>
 </ul>
 <br/>
@@ -77,5 +77,5 @@ user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous 
 Ces commandes installent les dépendances et démarrent l'application en mode développement.
 <h2>Captures d'écran</h2>
 
-![target](https://user-images.githubusercontent.com/82833380/153225596-66ddd3a9-c451-44ff-8850-3ab3078443ff.jpg)
-![Capture d’écran 2022-02-15 à 14 12 00](https://user-images.githubusercontent.com/82833380/154091583-d02eb3ab-7bcd-4731-bb38-494ff5f22e11.png)
+![Capture d’écran 2022-02-15 à 14 12 00](https://user-image![love](https://user-images.githubusercontent.com/82833380/154092625-322dd47a-bdf4-4bd3-8213-04621a2cd3ce.jpg)
+s.githubusercontent.com/82833380/154091583-d02eb3ab-7bcd-4731-bb38-494ff5f22e11.png)
