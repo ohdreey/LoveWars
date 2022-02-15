@@ -75,7 +75,10 @@ user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous 
 <p>npm install</p>
 <p>npm start<p>
 Ces commandes installent les dépendances et démarrent l'application en mode développement.
+ 
+<br/>
 <h2>Captures d'écran</h2>
 
-![Capture d’écran 2022-02-15 à 14 12 00](https://user-image![love](https://user-images.githubusercontent.com/82833380/154092625-322dd47a-bdf4-4bd3-8213-04621a2cd3ce.jpg)
-s.githubusercontent.com/82833380/154091583-d02eb3ab-7bcd-4731-bb38-494ff5f22e11.png)
+!![love](https://user-images.githubusercontent.com/82833380/154092784-ee1a2995-fb0d-4e72-800f-d7bd41d8eaaf.jpg)
+![smartmockups_kzo56gar](https://user-images.githubusercontent.com/82833380/154092839-a449a945-03b0-4ece-be84-bd7502dc4af9.jpg)
+![smartmockups_kzo9q4ow](https://user-images.githubusercontent.com/82833380/154092859-41670577-33c9-4a95-89c4-3522a4176a7a.jpg)
