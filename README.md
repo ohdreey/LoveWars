@@ -79,6 +79,5 @@ Ces commandes installent les dépendances et démarrent l'application en mode d�
 <br/>
 <h2>Captures d'écran</h2>
 
-!![love](https://user-images.githubusercontent.com/82833380/154092784-ee1a2995-fb0d-4e72-800f-d7bd41d8eaaf.jpg)
 ![smartmockups_kzo56gar](https://user-images.githubusercontent.com/82833380/154092839-a449a945-03b0-4ece-be84-bd7502dc4af9.jpg)
 ![smartmockups_kzo9q4ow](https://user-images.githubusercontent.com/82833380/154092859-41670577-33c9-4a95-89c4-3522a4176a7a.jpg)
