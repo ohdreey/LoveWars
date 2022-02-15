@@ -78,3 +78,4 @@ Ces commandes installent les dépendances et démarrent l'application en mode d�
 <h2>Captures d'écran</h2>
 
 ![target](https://user-images.githubusercontent.com/82833380/153225596-66ddd3a9-c451-44ff-8850-3ab3078443ff.jpg)
+![Capture d’écran 2022-02-15 à 14 12 00](https://user-images.githubusercontent.com/82833380/154091583-d02eb3ab-7bcd-4731-bb38-494ff5f22e11.png)
