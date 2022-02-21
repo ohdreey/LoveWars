@@ -44,7 +44,7 @@ user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous 
 
 <br/>
 <ul>
- <li>Yorgan<a href=</a>https://github.com/Benedct-Laurain</a></li>
+ <li>Yorgan<a href=</a>https://github.com/Yorgan-Agb</a></li>
    <li>Jules <a href=</a>https://github.com/JulesCharles</a></li>
  <li>Mariem <a href=</a>https://github.com/mariem31</a></li>
  <li>Deo <a href=</a>https://github.com/SummerCoder4</a></li>
